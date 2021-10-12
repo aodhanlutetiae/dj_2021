@@ -1,5 +1,7 @@
 **SOME DISCLOSURE LOGS FOR FOI AND EIR**
 
+[Cardiff Council](https://foi.cardiff.gov.uk/ENG/Pages/SearchFOI.aspx)
+
 [Coventry city council](https://www.coventry.gov.uk/directory/45/a_to_z)
 
 [Department of Transport](https://www.gov.uk/government/publications/dft-foi-disclosure-log-december-2020)
