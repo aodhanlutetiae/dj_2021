@@ -18,7 +18,11 @@
 
 [Ofwat 2020](https://www.ofwat.gov.uk/2020-information-disclosure-log-quarters-1-and-2/)
 
+[ONS](https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/publishedrequests)
+
 [Parliament (House of Commons)](https://www.parliament.uk/site-information/foi/foi-and-eir/commons-request-disclosure-logs/) & [House of Lords](https://www.parliament.uk/mps-lords-and-offices/offices/lords/freedom-of-information-in-the-house-of-lords/log/)
+
+[PSNI](https://www.psni.police.uk/advice_information/our-publications/lists-and-registers/)
 
 [Swansea University](https://www.swansea.ac.uk/about-us/compliance/freedom-of-information-/disclosure-log/)
 
