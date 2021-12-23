@@ -1,6 +1,6 @@
 **PREPARATORY WORK**
 - Find one recent FOI-driven news story
-- Import a built-in module to your Colab notebook
+- Import a built-in module to a Colab notebook
 
 **CONTENT**
 - Codes, law & guidelines
@@ -14,5 +14,5 @@
 - =IMPORTHTML()
 
 **RESOURCES**
-[Reading list: Journalism codes and frameworks](https://dj-reading.readthedocs.io/en/latest/#journalism)
-[Reading list: FOI](https://dj-reading.readthedocs.io/en/latest/#foi)
+- [Reading list: Journalism codes and frameworks](https://dj-reading.readthedocs.io/en/latest/#journalism)
+- [Reading list: FOI](https://dj-reading.readthedocs.io/en/latest/#foi)

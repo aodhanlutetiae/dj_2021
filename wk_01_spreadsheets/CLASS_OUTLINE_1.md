@@ -7,7 +7,7 @@
 **DATA CONCEPTS**
 
 - Recording our sources & data dictionaries
-- File types: CSV, TSV, xls, xlsx
+- File types: CSV, TSV, XLS, XLSX
 - Sheets vs Excel
 - Tabular data (vs dictionaries or databases)
 - Observations & variables
@@ -16,9 +16,8 @@
 
 **JOURNALISM OVERVIEW INTRO**
 
-- Class experience
-- Agencies
-- European regulation & accreditation
+- Collective journalistic experience
+- European / UK regulation & accreditation
 
 **DATA**
 

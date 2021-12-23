@@ -1,8 +1,8 @@
 # dj_2021
 
-Data Journalism 2020-21 | JOMEC (Cardiff University School of Journalism)
+Data Journalism 2020-21 | JOMEC
 
-This is the material and weekly structure for the Data Journalism module taught at Cardiff University's School of Journalism in the Autumn 2021 semester (MSc in Computational & Data Journalism). The course ran for 12 weeks with a four-hour class and a three-hour workshop every week. Questions and observations welcome at odonnella4@cardiff.ac.uk or @aodhanlutetiae.
+This is the material and weekly structure for the Data Journalism module taught at Cardiff University's School of Journalism in the Autumn 2021 semester ([MSc in Computational & Data Journalism](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/computational-and-data-journalism-msc)). The course ran for 12 weeks with a four-hour class and a three-hour workshop every week. Questions and observations welcome at odonnella4@cardiff.ac.uk or @aodhanlutetiae.
 
 Description
 
@@ -22,3 +22,12 @@ Course outline
     Week 10 — Ethics: obligations and the algobeat
     Week 11 — Law for (data) journalism
     Week 12 — Production 2: TBC
+
+**Course resources**
+
+- [Reading list](https://dj-reading.readthedocs.io/en/latest/#)
+- [List of random datasets](https://aodhanlutetiae.github.io/j_book/intro.html)
+
+**Licence**
+
+- [Creative Commons Attribution 4.0 International](https://github.com/aodhanlutetiae/dj2020/blob/master/LICENSE)
