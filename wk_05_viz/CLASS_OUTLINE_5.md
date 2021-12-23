@@ -6,3 +6,4 @@
 - Hand drawn visualisation & comics
 - Sonification
 - Visualisation ethics
+- Writing and subbing news copy

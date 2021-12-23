@@ -1,12 +1,11 @@
 **PREPARATORY WORK**
-
-— [Do one piece of reading about ethics for data journalism from the reading list and summarise](https://dj-reading.readthedocs.io/en/latest/#ethics)
+- [Summarise one piece of ethics reading from reading list](https://dj-reading.readthedocs.io/en/latest/#ethics)
 
 **LEGAL**
 
 - DPA 2018 & UK GDPR
-- Computer Misuse Act
-- Official Secrets Act
+- Computer Misuse Act 1990
+- Official Secrets Act 1989
 - Copyright
 
 **STATISTICAL**
