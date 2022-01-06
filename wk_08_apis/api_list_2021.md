@@ -6,6 +6,7 @@
 - [Committee to Protect Journalists](https://cpj.org/data-api/)
 - [Common crawl (web scrapers)](http://index.commoncrawl.org/)
 - [Covid data from UK govt](https://coronavirus.data.gov.uk/details/developers-guide)
+- [DEFRA APIs](https://environment.data.gov.uk/apiportal)
 - [Election candidates data UK](https://candidates.democracyclub.org.uk/api/docs/next/)
 - [Food hygiene UK (XML only)](https://www.food.gov.uk/uk-food-hygiene-rating-data-api)
 - [Formula One results since 1950](https://ergast.com/mrd/db/#csv)
