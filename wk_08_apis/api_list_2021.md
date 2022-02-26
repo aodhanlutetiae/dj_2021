@@ -56,3 +56,4 @@
 - [Strava](https://developers.strava.com/)
 - [Europeana](https://pro.europeana.eu/page/apis)
 - [General purpose list of APIs](https://github.com/public-apis/public-apis)
+- [Spy on web](https://api.spyonweb.com/)
