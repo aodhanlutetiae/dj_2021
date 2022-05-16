@@ -8,6 +8,7 @@
 - [Covid data from UK govt](https://coronavirus.data.gov.uk/details/developers-guide)
 - [DEFRA APIs](https://environment.data.gov.uk/apiportal)
 - [Election candidates data UK](https://candidates.democracyclub.org.uk/api/docs/next/)
+- [Electoral commission](https://api.electoralcommission.org.uk/docs/endpoints/)
 - [Food hygiene UK (XML only)](https://www.food.gov.uk/uk-food-hygiene-rating-data-api)
 - [Formula One results since 1950](https://ergast.com/mrd/db/#csv)
 - [Hansard](https://api.parliament.uk/historic-hansard/api)

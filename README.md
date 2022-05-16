@@ -1,6 +1,6 @@
 # dj_2021
 
-Data Journalism 2020-21 | JOMEC
+Data Journalism 2021-22 | JOMEC
 
 This is the material and weekly structure for the Data Journalism module taught at Cardiff University's School of Journalism in the Autumn 2021 semester ([MSc in Computational & Data Journalism](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/computational-and-data-journalism-msc)). The course ran for 12 weeks with a four-hour class and a three-hour workshop every week. Questions and observations welcome at odonnella4@cardiff.ac.uk or @aodhanlutetiae.
 
@@ -21,7 +21,7 @@ Course outline
     Week 9 — Web scraping for journalism
     Week 10 — Ethics: obligations and the algobeat
     Week 11 — Law for (data) journalism
-    Week 12 — Production 2: TBC
+    Week 12 — Production 2: Transport during the pandemic
 
 **Course resources**
 
