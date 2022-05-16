@@ -2,7 +2,7 @@
 - Placing size in context
 - Counting
 - Calculating correlation
-- Averages (rolling, experiential & standard deviation)
+- Averages (inc. rolling, experiential & standard deviation)
 - Rates
 - Risk
 

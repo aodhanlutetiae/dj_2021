@@ -6,5 +6,5 @@
 - Extra authentication. Twitter
 
 **RESOURCES**
-- See Harlow, and Smith, on the reading list: https://dj-reading.readthedocs.io/en/latest/#scraping-apis
+- See Harlow, and Smith, on the [reading list](https://dj-reading.readthedocs.io/en/latest/#scraping-apis)
 - See api_list_2021 in this repo
